@@ -1,6 +1,6 @@
 # Desafio de modelagem dimensional
 
-### Objetivo: 
+## Objetivo: 
 Criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado.
 
 ### Foco:
@@ -25,3 +25,5 @@ Criar o diagrama dimensional – star schema – com base no diagrama relacional
 
 *Para compensar a falta de dados de datas do modelo relacional, suponha que você tem acesso aos dados e crie os campos necessários para modelagem.*
 
+## Resolução:
+![EER Diagram](resolucao-desafio-eer-diagram-professor-star-shema.png)
